@@ -1,9 +1,14 @@
-
-html {
-  font-size: 20px;
-}
 body {
-  background-color: #181818;
-  color: whitesmoke;
-  font-family: 'DM Sans', sans-serif;
+  background-color: lightgrey;
+  color: blue;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+}
+
+div {
+  background-color: blue;
+  color: white;
 }
