@@ -5,7 +5,11 @@ body {
   font-family: 'abril fatface', sans-serif;
 }
 
-.Projects {
-  float: right;
-  width: 100%;
+h2{
+display:inline;
+float:left;
+}
+h2{
+display:inline;
+float:right;
 }
