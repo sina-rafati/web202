@@ -4,3 +4,8 @@ body {
   color: BLACK;
   font-family: 'abril fatface', sans-serif;
 }
+
+. Projects {
+  float: left;
+  width: 50%;
+}
