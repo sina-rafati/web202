@@ -4,3 +4,13 @@ body {
   color: BLACK;
   font-family: 'abril fatface', sans-serif;
 }
+
+.mydiv {
+  border: 5px
+text-align: left;
+}
+
+.mydiv1 {
+  border: 5px 
+text-align: center;
+}
