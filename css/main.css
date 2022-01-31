@@ -5,8 +5,8 @@ body {
   font-family: 'abril fatface', sans-serif;
 }
 
-<div style="clear: both">
-    <h2 style="float: left">Exercises</h2>
-    <h2 style="float: right">Projects</h2>
-</div>
-<hr />
+.mydiv {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+}
